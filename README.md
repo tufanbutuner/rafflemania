@@ -19,13 +19,13 @@ npm run lint
 
 ## Stack
 
-| Concern | Choice |
-|---|---|
-| Framework | Next.js, App Router |
-| Language | TypeScript, strict |
-| Styling | Tailwind CSS |
-| CMS | Payload v3 (Postgres adapter) |
-| Database | Postgres, managed, PITR enabled |
-| Payments | Stripe Checkout |
-| Email | Resend |
-| Monitoring | Sentry |
+| Concern    | Choice                          |
+| ---------- | ------------------------------- |
+| Framework  | Next.js, App Router             |
+| Language   | TypeScript, strict              |
+| Styling    | Tailwind CSS                    |
+| CMS        | Payload v3 (Postgres adapter)   |
+| Database   | Postgres, managed, PITR enabled |
+| Payments   | Stripe Checkout                 |
+| Email      | Resend                          |
+| Monitoring | Sentry                          |
